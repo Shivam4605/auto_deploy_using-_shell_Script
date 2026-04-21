@@ -3,7 +3,6 @@
 
 #!/bin/bash
 
-
 << task 
 
 deploy a Django app using the 
